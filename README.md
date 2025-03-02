@@ -1,7 +1,3 @@
-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
-
-Test 1
-
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
@@ -17,6 +13,8 @@ Test 1
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/223/badge)](https://www.bestpractices.dev/projects/223)
 ![GitHub stars](https://img.shields.io/github/stars/juice-shop/juice-shop.svg?label=GitHub%20%E2%98%85&style=flat)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
+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
 
 > [The most trustworthy online shop out there.](https://twitter.com/dschadow/status/706781693504589824)
 > ([@dschadow](https://github.com/dschadow)) —
